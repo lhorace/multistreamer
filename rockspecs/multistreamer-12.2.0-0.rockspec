@@ -14,7 +14,7 @@ dependencies = {
   "lapis",
   "etlua",
   "luacrypto",
-  "luaposix == 34.0.1-1",
+  "luaposix",
   "luafilesystem",
   "lyaml",
   "redis-lua",
