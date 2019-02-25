@@ -14,9 +14,7 @@ dependencies = {
   "lapis",
   "etlua",
   "luacrypto",
-  -- Latest luaposix fails to build, requires non-existent luke rock
-  -- Downgrade to a working version!
-  "luaposix == 33.3.1-1",
+  "luaposix",
   "luafilesystem",
   "lyaml",
   "redis-lua",
